@@ -1,4 +1,4 @@
-# Little Lemon API Project
+# Little Lemon API
 
 ### Meta Full-Stack Developer Professional Certificate — Capstone
 
