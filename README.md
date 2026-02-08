@@ -2,10 +2,10 @@
 
 ### Meta Full-Stack Developer Professional Certificate — Capstone
 
-[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
-[![Link to Certificate](https://img.shields.io/badge/Verified-META-blue)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
-[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![Link to Certificate](https://img.shields.io/badge/Certified-META-blue)](https://www.coursera.org/account/accomplishments/specialization/KAXRBWPHGDMY)
 [![Django](https://img.shields.io/badge/Django-4.x-092E20?logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python&logoColor=white)](https://www.python.org/)
+[![License: CC BY-NC-ND 4.0](https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 ## Project Overview
 The **Little Lemon API** is a comprehensive back-end system developed as the final requirement for the Meta Full-Stack Professional Certificate. It serves as a restaurant management platform capable of handling user authentication, menu management, and booking systems via a RESTful architecture.
