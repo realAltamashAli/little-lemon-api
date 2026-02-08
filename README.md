@@ -9,14 +9,14 @@
 ## Project Overview
 The **Little Lemon API** is a comprehensive back-end system developed as the final requirement for the Meta Full-Stack Professional Certificate. It serves as a restaurant management platform capable of handling user authentication, menu management, and booking systems via a RESTful architecture.
 
-As an aspiring **Data Analyst**, I utilized this project to master the "under-the-hood" mechanics of data: how relational databases are structured, how APIs transmit data, and how Python can be used to automate complex server-side logic.
+I developed this API to deepen my expertise in data lifecycle management. This project served as a deep dive into relational database architecture, the mechanics of API data transmission, and the use of Python for building automated, server-side data logic.
 
 ## Technical Stack
 * **Language:** Python (managed via Pipenv)
 * **Backend Framework:** Django & Django Rest Framework (DRF)
 * **Database Management:** SQLite (Relational Schema Design)
 * **Authentication:** Djoser (JWT & Token-based)
-* **API Testing:** Insomnia / Postman
+* **API Testing:** Pipenv / Insomnia / Postman
 
 ## Key Features & Data Logic
 * **Relational Database Management:** Designed and implemented schemas to manage relationships between Menu Categories, Items, and Customer Orders.
@@ -31,31 +31,10 @@ As an aspiring **Data Analyst**, I utilized this project to master the "under-th
 * `Pipfile` & `Pipfile.lock` - Python dependency management files.
 * `db.sqlite3` - Local relational database file.
 
-## Installation & Setup
-To run this project locally:
+## Core Competencies Demonstrated
+* **Database Architecture:** Understanding how to structure tables for optimal data retrieval.
+* **Backend Automation:** Using Python to handle logic that would otherwise require manual data entry.
+* **System Security:** Implementing industry-standard authentication to protect sensitive data records.
+* **Environment Management:** Professional use of Pipenv for dependency isolation.
 
-1. **Clone the repository:**
-
-    git clone [https://github.com/realAltamashAli/meta-full-stack-capstone.git](https://github.com/realAltamashAli/meta-full-stack-capstone.git)
-
-
-2. **Install dependencies (using Pipenv):**
-```
-pipenv install
-```
-
-3. **Activate the virtual environment:**
-```
-pipenv shell
-```
-
-4. **Run Migrations:**
-```
-python manage.py migrate
-```
-
-5. **Start the server:**
-```
-python manage.py runserver
-```
 ## Developed as part of the Meta Professional Certification program.
